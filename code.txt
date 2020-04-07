@@ -4,6 +4,8 @@ edting from github 5:24
 
 editing from eclipse open perspective
 
+commiting after merge conflict
+
 
 package com.example.helloworld;
 import com.yammer.dropwizard.config.Configuration;
