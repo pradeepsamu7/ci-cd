@@ -1,6 +1,8 @@
 
 
-edting from github.com 5:24 Development Branch.
+
+
+pushing updated code.text to remote repository after resolving the conflict.
 
 
 package com.example.helloworld;
